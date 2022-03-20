@@ -1,2 +1,2 @@
 # custom_miners
-Custom Miners Repository
+Custom Miners Repository for HiveOS Custom Miners
